@@ -21,3 +21,15 @@ is front and center. CODE IS KING
 - github is for the developers. its not really for the users.
   - this is a nice complementarity with SimTk.org in some ways
 - github is extremely well executed. it's easy to use.
+
+
+Links to use
+------------
+http://sourceforge.net/projects/weka/
+https://simtk.org/home/msmbuilder
+https://github.com/SimTk/msmbuilder
+
+
+http://lusislog.blogspot.com/2010/10/designed-for-developers-why-people-keep.html
+http://stackoverflow.com/questions/78991/why-is-github-more-popular-than-gitorious
+http://stackoverflow.com/questions/871/why-is-git-better-than-subversion
